@@ -1,0 +1,32 @@
+gradient.png        1% Cover                 PSNR=     - SSIM=       - changed=     0 (0.0000%) P1=0.4622 chi2=  26053.38 p=0 | head: chi2=  825.48 p=8e-103
+gradient.png        1% Plain LSB             PSNR= 71.43 SSIM=0.999945 changed=  3678 (0.4677%) P1=0.4634 chi2=  24173.17 p=0 | head: chi2=  104.99 p=0.923
+gradient.png        1% Encrypted LSB         PSNR= 71.08 SSIM=0.999934 changed=  3991 (0.5075%) P1=0.4641 chi2=  23548.27 p=0 | head: chi2=   69.35 p=1
+gradient.png        1% Encrypted Random LSB  PSNR= 71.12 SSIM=0.999917 changed=  3948 (0.5020%) P1=0.4626 chi2=  25509.97 p=0 | head: chi2=  812.17 p=2.26e-100
+gradient.png        5% Cover                 PSNR=     - SSIM=       - changed=     0 (0.0000%) P1=0.4622 chi2=  26053.38 p=0 | head: chi2= 4002.33 p=0
+gradient.png        5% Plain LSB             PSNR= 64.33 SSIM=0.999398 changed= 18888 (2.4017%) P1=0.4654 chi2=  19282.50 p=0 | head: chi2=  412.85 p=6.06e-32
+gradient.png        5% Encrypted LSB         PSNR= 64.18 SSIM=0.999321 changed= 19531 (2.4835%) P1=0.4688 chi2=  18132.93 p=0 | head: chi2=   61.79 p=1
+gradient.png        5% Encrypted Random LSB  PSNR= 64.18 SSIM=0.999589 changed= 19536 (2.4841%) P1=0.4640 chi2=  23554.52 p=0 | head: chi2= 3628.44 p=0
+my_pic.png          1% Cover                 PSNR=     - SSIM=       - changed=     0 (0.0000%) P1=0.5004 chi2=    221.18 p=5.21e-09 | head: chi2=   43.09 p=0.928
+my_pic.png          1% Plain LSB             PSNR= 71.21 SSIM=0.999989 changed=   968 (0.4924%) P1=0.4997 chi2=    221.32 p=5.01e-09 | head: chi2=   44.50 p=0.904
+my_pic.png          1% Encrypted LSB         PSNR= 71.28 SSIM=0.999988 changed=   953 (0.4847%) P1=0.5002 chi2=    219.40 p=8.16e-09 | head: chi2=   33.84 p=0.995
+my_pic.png          1% Encrypted Random LSB  PSNR= 71.25 SSIM=0.999969 changed=   958 (0.4873%) P1=0.5004 chi2=    216.89 p=1.53e-08 | head: chi2=   41.80 p=0.946
+my_pic.png          5% Cover                 PSNR=     - SSIM=       - changed=     0 (0.0000%) P1=0.5004 chi2=    221.18 p=5.21e-09 | head: chi2=   54.91 p=0.892
+my_pic.png          5% Plain LSB             PSNR= 64.17 SSIM=0.999821 changed=  4895 (2.4897%) P1=0.4971 chi2=    220.15 p=6.75e-09 | head: chi2=  126.80 p=2.79e-05
+my_pic.png          5% Encrypted LSB         PSNR= 64.20 SSIM=0.999823 changed=  4862 (2.4729%) P1=0.5009 chi2=    209.73 p=8.79e-08 | head: chi2=   35.31 p=1
+my_pic.png          5% Encrypted Random LSB  PSNR= 64.16 SSIM=0.999840 changed=  4901 (2.4928%) P1=0.4999 chi2=    207.98 p=1.34e-07 | head: chi2=   53.70 p=0.912
+checkerboard.png    1% Cover                 PSNR=     - SSIM=       - changed=     0 (0.0000%) P1=0.2500 chi2= 393216.00 p=0 | head: chi2= 3932.00 p=0
+checkerboard.png    1% Plain LSB             PSNR= 71.28 SSIM=0.999976 changed=  3806 (0.4840%) P1=0.2510 chi2= 385654.09 p=0 | head: chi2=   77.01 p=1.7e-18
+checkerboard.png    1% Encrypted LSB         PSNR= 71.11 SSIM=0.999975 changed=  3958 (0.5033%) P1=0.2518 chi2= 385353.14 p=0 | head: chi2=    1.59 p=0.208
+checkerboard.png    1% Encrypted Random LSB  PSNR= 71.07 SSIM=0.999936 changed=  4001 (0.5088%) P1=0.2526 chi2= 385254.74 p=0 | head: chi2= 3826.71 p=0
+checkerboard.png    5% Cover                 PSNR=     - SSIM=       - changed=     0 (0.0000%) P1=0.2500 chi2= 393216.00 p=0 | head: chi2=19660.50 p=0
+checkerboard.png    5% Plain LSB             PSNR= 64.34 SSIM=0.999826 changed= 18829 (2.3942%) P1=0.2549 chi2= 356782.27 p=0 | head: chi2=  366.78 p=9.41e-82
+checkerboard.png    5% Encrypted LSB         PSNR= 64.18 SSIM=0.999823 changed= 19511 (2.4810%) P1=0.2582 chi2= 355484.84 p=0 | head: chi2=    1.35 p=0.246
+checkerboard.png    5% Encrypted Random LSB  PSNR= 64.17 SSIM=0.999693 changed= 19560 (2.4872%) P1=0.2626 chi2= 355069.10 p=0 | head: chi2=17785.48 p=0
+noise_texture.png   1% Cover                 PSNR=     - SSIM=       - changed=     0 (0.0000%) P1=0.5005 chi2=    168.64 p=0.000218 | head: chi2=  125.02 p=0.0396
+noise_texture.png   1% Plain LSB             PSNR= 71.10 SSIM=0.999974 changed=  3972 (0.5051%) P1=0.4998 chi2=    168.69 p=0.000216 | head: chi2=  143.04 p=0.00252
+noise_texture.png   1% Encrypted LSB         PSNR= 71.13 SSIM=0.999974 changed=  3939 (0.5009%) P1=0.5005 chi2=    162.93 p=0.000632 | head: chi2=   56.84 p=1
+noise_texture.png   1% Encrypted Random LSB  PSNR= 71.18 SSIM=0.999945 changed=  3899 (0.4958%) P1=0.5004 chi2=    167.21 p=0.000286 | head: chi2=  123.17 p=0.0503
+noise_texture.png   5% Cover                 PSNR=     - SSIM=       - changed=     0 (0.0000%) P1=0.5005 chi2=    168.64 p=0.000218 | head: chi2=   72.62 p=0.979
+noise_texture.png   5% Plain LSB             PSNR= 64.13 SSIM=0.999743 changed= 19764 (2.5131%) P1=0.4969 chi2=    189.73 p=2.68e-06 | head: chi2=  431.29 p=5.06e-43
+noise_texture.png   5% Encrypted LSB         PSNR= 64.15 SSIM=0.999742 changed= 19674 (2.5017%) P1=0.5004 chi2=    165.38 p=0.000403 | head: chi2=   48.34 p=1
+noise_texture.png   5% Encrypted Random LSB  PSNR= 64.12 SSIM=0.999722 changed= 19799 (2.5176%) P1=0.5005 chi2=    144.27 p=0.0134 | head: chi2=   75.02 p=0.965
